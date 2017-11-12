@@ -1,0 +1,23 @@
+{
+  "name": "atrask-vilniu",
+  "version": "0.1.0",
+  "description": "Edukacinio pobūždio žaidimas, kurio tikslas aplankyti vietas, matomas Google MAPS API žemėlapyje, ir teisingai atsakyti į pateiktus klausimus.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "atrask-vilniu"
+  },
+  "keywords": [
+    "atrask",
+    "vilniu",
+    "edukacinis",
+    "zaidimas",
+    "universitetas",
+    "vgtu"
+  ],
+  "author": "Žanas Stundys <unexdesigns@gmail.com>",
+  "license": "UNLICENSED"
+}

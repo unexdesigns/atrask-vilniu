@@ -1,0 +1,6 @@
+node_modules/
+app/hooks/
+app/platforms/
+app/plugins/
+app/res/
+database/
